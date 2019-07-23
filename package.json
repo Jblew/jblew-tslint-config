@@ -1,0 +1,21 @@
+{
+    "name": "jblew-tslint-config",
+    "version": "0.1.0",
+    "description": "TSLint configuration for my projects",
+    "main": "tslint.json",
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/Jblew/jblew-tslint-config"
+    },
+    "keywords": [
+        "tslint", "linting"
+    ],
+    "author": "Jędrzej Lewandowski <jedrzejblew@gmail.com> (https://jedrzej.lewandowski.doctor/)",
+    "contributors": [
+        "Jędrzej Lewandowski <jedrzejblew@gmail.com> (https://jedrzej.lewandowski.doctor/)"
+    ],
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/Jblew/jblew-tslint-config/issues"
+    }
+}
